@@ -1,0 +1,53 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="sp-yourspritesname"></i>
+Responsive: <div class="sp-yourspritesname"></div>
+*/
+
+
+.sp-Avatar {max-width:50px; max-height:50px; }
+.sp-Avatar::after {content: '\00a0';display: inline-block; width:50px; height:50px; background-position: 75.54479418886199% 65.32438478747204%;background-size: 926% 994%;background-image: url(icons.png);padding: 0; }
+div.sp-Avatar::after {max-width:50px; width:100%;height:0;padding: 0 0 100% 0;}
+.sp-coin {max-width:48px; max-height:48px; }
+.sp-coin::after {content: '\00a0';display: inline-block; width:48px; height:48px; background-position: 89.39759036144578% 55.45657015590201%;background-size: 964.5833333333334% 1035.4166666666667%;background-image: url(icons.png);padding: 0; }
+div.sp-coin::after {max-width:48px; width:100%;height:0;padding: 0 0 100% 0;}
+.sp-cup {max-width:48px; max-height:48px; }
+.sp-cup::after {content: '\00a0';display: inline-block; width:48px; height:48px; background-position: 99.51807228915662% 32.962138084632514%;background-size: 964.5833333333334% 1035.4166666666667%;background-image: url(icons.png);padding: 0; }
+div.sp-cup::after {max-width:48px; width:100%;height:0;padding: 0 0 100% 0;}
+.sp-currency {max-width:19px; max-height:19px; }
+.sp-currency::after {content: '\00a0';display: inline-block; width:19px; height:19px; background-position: 84.90990990990991% 80.3347280334728%;background-size: 2436.842105263158% 2615.7894736842104%;background-image: url(icons.png);padding: 0; }
+div.sp-currency::after {max-width:19px; width:100%;height:0;padding: 0 0 100% 0;}
+.sp-dailyquest {max-width:49px; max-height:40px; }
+.sp-dailyquest::after {content: '\00a0';display: inline-block; width:49px; height:40px; background-position: 79.22705314009661% 75.054704595186%;background-size: 944.8979591836735% 1242.5%;background-image: url(icons.png);padding: 0; }
+div.sp-dailyquest::after {max-width:49px; width:100%;height:0;padding: 0 0 81.63265306122449% 0;}
+.sp-dna {max-width:29px; max-height:27px; }
+.sp-dna::after {content: '\00a0';display: inline-block; width:29px; height:27px; background-position: 83.6405529953917% 63.40425531914894%;background-size: 1596.551724137931% 1840.7407407407406%;background-image: url(icons.png);padding: 0; }
+div.sp-dna::after {max-width:29px; width:100%;height:0;padding: 0 0 93.10344827586206% 0;}
+.sp-dna4 {max-width:48px; max-height:48px; }
+.sp-dna4::after {content: '\00a0';display: inline-block; width:48px; height:48px; background-position: 99.51807228915662% 43.87527839643653%;background-size: 964.5833333333334% 1035.4166666666667%;background-image: url(icons.png);padding: 0; }
+div.sp-dna4::after {max-width:48px; width:100%;height:0;padding: 0 0 100% 0;}
+.sp-exp {max-width:100px; max-height:100px; }
+.sp-exp::after {content: '\00a0';display: inline-block; width:100px; height:100px; background-position: 85.9504132231405% 37.27959697732997%;background-size: 463% 497%;background-image: url(icons.png);padding: 0; }
+div.sp-exp::after {max-width:100px; width:100%;height:0;padding: 0 0 100% 0;}
+.sp-leaderboards {max-width:58px; max-height:42px; }
+.sp-leaderboards::after {content: '\00a0';display: inline-block; width:58px; height:42px; background-position: 77.03703703703704% 54.72527472527472%;background-size: 798.2758620689655% 1183.3333333333333%;background-image: url(icons.png);padding: 0; }
+div.sp-leaderboards::after {max-width:58px; width:100%;height:0;padding: 0 0 72.41379310344827% 0;}
+.sp-massboost {max-width:150px; max-height:146px; }
+.sp-massboost::after {content: '\00a0';display: inline-block; width:150px; height:146px; background-position: 99.68051118210863% 0.2849002849002849%;background-size: 308.6666666666667% 340.4109589041096%;background-image: url(icons.png);padding: 0; }
+div.sp-massboost::after {max-width:150px; width:100%;height:0;padding: 0 0 97.33333333333333% 0;}
+.sp-massboost2x {max-width:163px; max-height:126px; }
+.sp-massboost2x::after {content: '\00a0';display: inline-block; width:163px; height:126px; background-position: 0.3333333333333333% 99.73045822102426%;background-size: 284.0490797546012% 394.44444444444446%;background-image: url(icons.png);padding: 0; }
+div.sp-massboost2x::after {max-width:163px; width:100%;height:0;padding: 0 0 77.30061349693251% 0;}
+.sp-massboost3x {max-width:162px; max-height:126px; }
+.sp-massboost3x::after {content: '\00a0';display: inline-block; width:162px; height:126px; background-position: 54.817275747508305% 99.73045822102426%;background-size: 285.8024691358025% 394.44444444444446%;background-image: url(icons.png);padding: 0; }
+div.sp-massboost3x::after {max-width:162px; width:100%;height:0;padding: 0 0 77.77777777777777% 0;}
+.sp-star {max-width:48px; max-height:48px; }
+.sp-star::after {content: '\00a0';display: inline-block; width:48px; height:48px; background-position: 79.03614457831326% 85.52338530066815%;background-size: 964.5833333333334% 1035.4166666666667%;background-image: url(icons.png);padding: 0; }
+div.sp-star::after {max-width:48px; width:100%;height:0;padding: 0 0 100% 0;}
+.sp-trophy {max-width:310px; max-height:368px; }
+.sp-trophy::after {content: '\00a0';display: inline-block; width:310px; height:368px; background-position: 0.6535947712418301% 0.7751937984496124%;background-size: 149.3548387096774% 135.05434782608697%;background-image: url(icons.png);padding: 0; }
+div.sp-trophy::after {max-width:310px; width:100%;height:0;padding: 0 0 118.70967741935483% 0;}
+
+/* $TexturePacker:SmartUpdate:0a5d71318914ad5ba6dd71325d2c565f:1655067133fc244f0615d012751d9b1a:f1ca9f615efd41ee6d583ace452461d3$ */
